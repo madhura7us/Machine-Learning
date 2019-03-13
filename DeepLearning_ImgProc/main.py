@@ -3,11 +3,6 @@
 
 # In[ ]:
 
-print("Group members: Madhura Umesh Gajendragadkar, Akshay Jayaraj, Vasanta Surya Roop Teja")
-print("Ubit names: mgajendr, akshayja, vasantas")
-print("Ubit names: 50246666, 50214185, 50250075")
-
-
 # In[ ]:
 
 PATH="E:/Project_4/img_align_celeba/"
